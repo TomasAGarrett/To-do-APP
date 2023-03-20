@@ -2,9 +2,6 @@
 
 # To-do Flutter App
 
-## Task Main Page
-![To-do app screenshot](https://www.dropbox.com/s/xc7vom49tcea5op/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202023-03-20%20at%2023.06.11.png?dl=0)![To-do app screenshot](https://www.dropbox.com/s/lpwb8yogyxhgcu4/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202023-03-20%20at%2023.05.59.png?dl=0)![To-do app screenshot](https://www.dropbox.com/s/bxrazjtvjo8ebp2/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202023-03-20%20at%2023.06.22.png?dl=0)
-
 ## Overview
 
 The To-do Flutter app is a simple mobile application that allows users to add and delete tasks. It has a minimalist user interface that is easy to navigate. The app uses Hive to store user data locally, and it is available for both iOS and Android.
@@ -14,7 +11,7 @@ The To-do Flutter app is a simple mobile application that allows users to add an
 Currently, the To-do Flutter app has the following features:
 
 - Add tasks
-- Delete tasks
+- Delete tasks -> to delete a task just slide the task in question and press the bin icon
 
 Planned features include:
 
@@ -26,7 +23,8 @@ Planned features include:
 
 ## Screenshots
 
-![To-do app screenshot](https://example.com/screenshot.png)
+# Task Main Page / Add Task / Delete Task
+[![Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-06-11.png](https://i.postimg.cc/CK5bVB3k/Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-06-11.png)](https://postimg.cc/XZMrfJ7Y)[![Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-05-59.png](https://i.postimg.cc/JznsywpW/Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-05-59.png)](https://postimg.cc/4mDfM0C8)[![Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-06-22.png](https://i.postimg.cc/hPMJP4br/Simulator-Screen-Shot-i-Phone-X-2023-03-20-at-23-06-22.png)](https://postimg.cc/BXLZm0zL)
 
 ## Technologies
 
