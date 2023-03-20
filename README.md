@@ -1,5 +1,3 @@
-# to_do
-
 # To-do Flutter App
 
 ## Table of Contents
